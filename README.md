@@ -91,6 +91,7 @@ require('lazy').setup({
     },
     -- Other plugins
   },
+  -- Other options for `lazy`
 })
 ```
 
